@@ -4,6 +4,17 @@ The Pytorch implements of our ACA-GAN: Autoencoder-based Collaborative Attention
 
 The overview of our ACA-GAN framework.
 ![Framework](./images/framework_figure1.png)
+![Framework](./images/framework_figure2.png)
+
+## Comparsion with State-of-the-Art Methods
+Experimental results on BraTS2020 dataset.
+![Result](./images/brats_result_show.png)
+
+Experimental results on Multi-PIE dataset.
+![Result](./images/multipie_result_show.png)
+
+Experimental results on RaFD dataset.
+![Result](./images/rafd_result_show.png)
 
 ## Environment
 ```
