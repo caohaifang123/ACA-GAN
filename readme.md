@@ -3,8 +3,7 @@
 The Pytorch implements of our ACA-GAN: Autoencoder-based Collaborative Attention GAN for Multi-modal Image Synthesis.
 
 The overview of our ACA-GAN framework.
-<img src>="../images/framework_figure1.png"
-<img src="https://pic-liujiaxu.oss-cn-beijing.aliyuncs.com/20210121200111.png"/>
+![Framework](./images/framework_figure1.png)
 
 ## Environment
 ```
