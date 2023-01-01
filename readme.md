@@ -4,6 +4,7 @@ The Pytorch implements of our ACA-GAN: Autoencoder-based Collaborative Attention
 
 The overview of our ACA-GAN framework.
 ![Framework](./images/framework_figure1.png)
+The feature fusion process.
 ![Framework](./images/framework_figure2.png)
 
 ## Comparsion with State-of-the-Art Methods
