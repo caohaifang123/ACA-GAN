@@ -34,7 +34,7 @@ Pillow              9.2.0
 Download the datasets from the official way and rearrange the files to the following structure.
 ## BraTS2020
 ```
-BraTS2020
+BraTS
 ├── MICCAI_BraTS2020_TrainingData
 │   ├── flair
 │       ├── BraTS20_Training_001_flair.nii.gz
@@ -93,7 +93,7 @@ MultiPIE
 ```
 ## RaFD
 ```
-RaFD090Crop
+RaFD
 ├── Rafd090_01_Caucasian_female_angry_frontal.jpg
 ├── Rafd090_01_Caucasian_female_angry_left.jpg
 ├── Rafd090_01_Caucasian_female_angry_right.jpg
@@ -124,11 +124,11 @@ RaFD090Crop
 ## Train
 Edit the .yaml file of the corresponding dataset for training configuration and run the following command to train.
 ```
-python train.py options/brats/joint_attention.yaml
+python train.py options/brats/collaborative_attention.yaml
 ```
 
 ## Test
 Edit the .yaml file of the corresponding dataset for testing configuration and run the following command to test.
 ```
-python test.py options/brats/joint_attention.yaml
+python test.py options/brats/collaborative_attention.yaml
 ```
