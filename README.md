@@ -34,7 +34,7 @@ Pillow              9.2.0
 Download the datasets from the official way and rearrange the files to the following structure.
 ## BraTS2020
 ```
-BraTS2020
+BraTS
 ├── MICCAI_BraTS2020_TrainingData
 │   ├── flair
 │       ├── BraTS20_Training_001_flair.nii.gz
@@ -61,7 +61,7 @@ BraTS2020
 ```
 ## Multi-PIE
 ```
-MultiPIE
+multipie
 ├── MultiPIE_TrainingData
 │   ├── front
 │       ├── MultiPIE_front_001.png
