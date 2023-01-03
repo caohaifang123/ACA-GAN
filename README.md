@@ -2,17 +2,17 @@
 
 The Pytorch implements of our ACA-GAN: Autoencoder-based Collaborative Attention GAN for Multi-modal Image Synthesis. **All the source code will be available.**
 
-The overview of our ACA-GAN framework.
+**The overview of our ACA-GAN framework.**
 ![Framework](./images/framework_figure1.png)
 
 ## Comparsion with State-of-the-Art Methods
-Experimental results on BraTS2020 dataset.
+### BraTS2020
 ![Result](./images/brats_result_show.png)
 
-Experimental results on Multi-PIE dataset.
+### Multi-PIE
 ![Result](./images/multipie_result_show.png)
 
-Experimental results on RaFD dataset.
+### RaFD
 ![Result](./images/rafd_result_show.png)
 
 ## Environment
@@ -30,7 +30,7 @@ Pillow              9.2.0
 ```
 ## Prepare datasets
 Download the datasets from the official way and rearrange the files to the following structure.
-## BraTS2020
+### BraTS2020
 ```
 BraTS2020
 ├── MICCAI_BraTS2020_TrainingData
@@ -57,7 +57,7 @@ BraTS2020
 ├── MICCAI_BraTS2020_ValidationData
 │   ├── ...
 ```
-## Multi-PIE
+### Multi-PIE
 ```
 MultiPIE
 ├── MultiPIE_TrainingData
@@ -89,7 +89,7 @@ MultiPIE
 ├── MultiPIE_ValidationData
 │   ├── ...
 ```
-## RaFD
+### RaFD
 ```
 RaFD
 ├── Rafd090_01_Caucasian_female_angry_frontal.jpg
