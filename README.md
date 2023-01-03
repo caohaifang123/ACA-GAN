@@ -1,6 +1,6 @@
 # ACA-GAN: Autoencoder-based Collaborative Attention GAN for Multi-modal Image Synthesis
 
-The Pytorch implements of our ACA-GAN: Autoencoder-based Collaborative Attention GAN for Multi-modal Image Synthesis.
+The Pytorch implements of our ACA-GAN: Autoencoder-based Collaborative Attention GAN for Multi-modal Image Synthesis. *All the source code will be available.*
 
 The overview of our ACA-GAN framework.
 ![Framework](./images/framework_figure1.png)
